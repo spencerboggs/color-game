@@ -2,6 +2,8 @@
 
 A fast-paced React game where you find the one tile with a different color before time runs out.
 
+Play now: `https://spencerboggs.github.io/color-game/`.
+
 ## Features
 
 - Five-second timer for each level
@@ -25,6 +27,7 @@ npm run dev
 ```
 
 Open the local URL shown by Vite in your browser.
+
 
 ## How to play
 
