@@ -2,7 +2,7 @@
 
 A fast-paced React game where you find the one tile with a different color before time runs out.
 
-Play now: `https://spencerboggs.github.io/color-game/`.
+[Play now :D](https://spencerboggs.github.io/color-game/)
 
 ## Features
 
